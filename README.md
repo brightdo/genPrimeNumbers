@@ -31,4 +31,4 @@ gcc -g -Wall -fopenmp -std=c99 -o genprime genprimes.c
 Where:
 N is a positive number bigger than 2 and less than or equal to 100,000
 t is the number of threads and is a positive integer that does not exceed 100..
-see sample [outputs](/output).
+see sample [outputs](/output/prime numbers.txt).
