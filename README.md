@@ -1,5 +1,5 @@
 # genPrimeNumbers
-imnplementation of a  openmp code to generate prime numbers from 2 to N and a report that contains the speedup relative to the running time with 1 thread; the table will have number of threads = 2, 5, 10, 20, 40, 80, and 100. 
+imnplementation of a  openmp code to generate prime numbers from 2 to N and a report that contains the speedup relative to the running time with 1 thread; the table will have number of threads = 2, 5, 10, 20, 40, 80, and 100. \n
 Example:
 Suppose N = 20
 floor of (20+1)/2 = 10 <= where we stop.
