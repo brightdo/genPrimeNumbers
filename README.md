@@ -32,3 +32,6 @@ Where:
 N is a positive number bigger than 2 and less than or equal to 100,000
 t is the number of threads and is a positive integer that does not exceed 100..
 see sample [outputs](/output).
+
+## Report
+![addCard](https://github.com/brightdo/genPrimeNumbers/blob/master/report.pdf)
