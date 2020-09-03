@@ -34,4 +34,4 @@ t is the number of threads and is a positive integer that does not exceed 100..
 see sample [outputs](/output).
 
 ## Report
-![addCard](https://github.com/brightdo/genPrimeNumbers/blob/master/report.pdf)
+![](https://github.com/brightdo/genPrimeNumbers/blob/master/report.pdf)
